@@ -2,12 +2,12 @@
 
 ### Welcome to my page!
 
-I'm Carlos, mechanical engineer student doing a double degree in France. I really enjoy mechanics and how I apply computing on it, usually in robotics.
+I'm Carlos, a mechanical engineer student doing a double degree in France. I really enjoy mechanics and how I apply computing on it, usually in robotics.
 
 ### My professional life
 
-- 🚗 Mechanical Engineer at Universidade de Brasília
-- ✈️ Generalist Engineer at École Centrale de Nantes
+- 🚗 Mechanical Engineer in [Universidade de Brasília][UnB]
+- ✈️ Generalist Engineer in [École Centrale de Nantes][ECN]
     - Advanced Modeling and Structure Analysis
 - ⚡ Seeking a 4-6 month internship in Europe
 
@@ -16,7 +16,7 @@ I'm Carlos, mechanical engineer student doing a double degree in France. I reall
 - 🌎 I'm from Brazil
 - ❤️ Passionate about challenges
 - 📚 Enthusiastic to learn and develop
-- 🎮 Gamer in my freetime
+- 🎮 Gamer in my free time
 
 
 
@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[UnB]: https://international.unb.br/
+[ECN]: https://www.ec-nantes.fr/english-version
