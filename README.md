@@ -11,7 +11,7 @@ I really enjoy mechanics and math, and how I apply computing on it.
 - 🚗 Mechanical Engineer in [Universidade de Brasília][UnB]
 - ✈️ Generalist Engineer in [École Centrale de Nantes][ECN]
     - Advanced Modeling and Structure Analysis
-- ⚡ Seeking job in Brazil/Europe
+- ⚡ Seeking job in France
 
 ### Portfolio
 
