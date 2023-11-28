@@ -2,22 +2,22 @@
 
 ### Welcome to my page!
 
-I'm Carlos, a junior mechanical engineer with double diploma.
-
-I really enjoy mechanics and math, and how I apply computing on it.
+I'm Carlos, a mechanical engineer.
+I really enjoy mechanics, math and programming.
 
 ### My professional life
 
 - 🚗 Mechanical Engineer in [Universidade de Brasília][UnB]
 - ✈️ Generalist Engineer in [École Centrale de Nantes][ECN]
     - Advanced Modeling and Structure Analysis
-- ⚡ Seeking job in France
 
 ### Portfolio
 
 - [compmec][compmec] - Computational Mechanics Repositories
     - 〽️ [nurbs](https://github.com/compmec/nurbs) - Parametric curves
-    - 🏗️ [strct](https://github.com/compmec/strct) - Beams and Rods
+    - ⭐ [shape](https://github.com/compmec/shape) - Boolean operations between 2D figures
+    - 📐 [section](https://github.com/compmec/section) - Analysis of cross-section of beams
+    - 🏗️ [beams](https://github.com/compmec/beams) - Beams and Rods
     - 💫 [rbdyn](https://github.com/compmec/rbdyn) - Rigid Body Dynamics
     - 🧽 [hyper](https://github.com/compmec/hyper) - Rubber like materials
 - Personal 
