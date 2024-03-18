@@ -2,8 +2,10 @@
 
 ### Welcome to my page!
 
-I'm Carlos, a mechanical engineer.
-I really enjoy mechanics, math and programming.
+I'm Carlos, a mechanical engineer with strong programming background
+
+* For now, I seek a software development :computer: job in France
+* In my free time, I develop the package :triangular_ruler:[section](https://github.com/compmec/section) 
 
 ### My professional life
 
